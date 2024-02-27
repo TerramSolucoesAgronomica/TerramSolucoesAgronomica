@@ -13,6 +13,8 @@ Nosso foco é a sustentabilidade do Sistema de Produção Agrícola, por isso bu
 
 [Visite o site da Terram](https://terram.agr.br/)
 
+
+
 <div align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TerramSolucoesAgronomica&theme=vue"/>
 </div>
